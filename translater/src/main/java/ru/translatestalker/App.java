@@ -1,4 +1,4 @@
-package com.example;
+package ru.translatestalker;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
